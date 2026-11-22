@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ParishQRReferenceImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 6168887125406257851
+  m_GuidHigh: 5001782466395718054
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 6654334539118029533
+      m_GuidHigh: 14436623377296307377
+    m_SerializedTextureGuid:
+      m_GuidLow: 5838328686779350970
+      m_GuidHigh: 14783248861066353087
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: F1_LeftStairs_QR
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5774624680733041573
+      m_GuidHigh: 6782155828938172854
+    m_SerializedTextureGuid:
+      m_GuidLow: 6244981865611214070
+      m_GuidHigh: 8164947339761303936
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: F1_RightStairs_QR
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 6793186348785090089
+      m_GuidHigh: 8360259217015148458
+    m_SerializedTextureGuid:
+      m_GuidLow: 6629892454428703712
+      m_GuidHigh: 13136448681564871841
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: F2_LeftStairs_QR
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 6471703087413417578
+      m_GuidHigh: 4030190942607548322
+    m_SerializedTextureGuid:
+      m_GuidLow: 5791927379834903028
+      m_GuidHigh: 10882592606578813589
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: F2_RightStairs_QR
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4810030836418437932
+      m_GuidHigh: 5547749201714552754
+    m_SerializedTextureGuid:
+      m_GuidLow: 4880767787042378776
+      m_GuidHigh: 13690691666551199629
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: F1_FunctionHall_QR
+    m_Texture: {fileID: 0}
